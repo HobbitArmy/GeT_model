@@ -14,7 +14,7 @@ In this article, we propose an effective and accurate approach based on Ghost-co
 
 
 
-![GeT_r.png](C:\Users\luxy\OneDrive%20-%20zju.edu.cn\Code\pycode\project\p4_grape2021\GeT_model\GeT_r.png)
+![GeT_r.png](./model_pth/GeT_r.png)
 
 
 
