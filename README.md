@@ -22,12 +22,8 @@ First, a grape leaf disease and pest dataset containing 11 classes and 12,615 im
 
 ##### Dependencies
 
-pytorch
-
-torchvision
-
-timm
+pytorch, torchvision, timm
 
 ##### Use
 
-The **GeTTest.py** is used for loading an grape leaf image and **predict** the symptom.
+The **GeTTest.py** is used for loading an grape leaf image and **predicting the symptom**.
